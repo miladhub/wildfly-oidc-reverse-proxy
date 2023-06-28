@@ -1,0 +1,7 @@
+target
+.idea
+.DS_Store
+*.crt
+*.pem
+*.key
+*.p12
