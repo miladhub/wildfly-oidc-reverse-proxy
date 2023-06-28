@@ -113,6 +113,8 @@ These pieces of configuration were necessary to make it all work:
 </Location>
 ```
 
+```xml
 <http-listener name="default" ... proxy-address-forwarding="true" />
+```
 
 See <https://groups.google.com/g/wildfly/c/4P6MQXPNRlo>.
